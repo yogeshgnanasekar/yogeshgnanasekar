@@ -1,25 +1,40 @@
-<h1 align="center">Hi 👋, I'm Yogesh</h1>
-
-<h3 align="center">
-🔐 AI & Cybersecurity Enthusiast | Aspiring Research Engineer | Threat Hunting | Bug Bounty Learner
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yogesh;AI+%26+Cybersecurity+Enthusiast;Building+ScamShield+AI;Future+Cybersecurity+Researcher;Welcome+to+my+GitHub!" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Cybersecurity+Enthusiast;Building+ScamShield+AI;Threat+Hunting+%7C+Malware+Analysis;Bug+Bounty+Learner;Future+Cybersecurity+Researcher" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Yogesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Research&descAlignY=58"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yogeshgnanasekar&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Yogeshgnanasekar?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/Yogeshgnanasekar?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Computer Science student passionate about **Artificial Intelligence & Cybersecurity**
-- 🛡️ Currently building **ScamShield AI** – an AI-powered scam detection assistant.
-- 🔍 Interested in Threat Hunting, Malware Analysis, Digital Forensics and AI Security.
-- 🌱 Currently learning **Python, Machine Learning, Cloud Security, Docker and System Design**
-- 💡 I enjoy solving cybersecurity challenges and participating in hackathons.
-- 🎯 Goal: Become a **Cybersecurity Research Engineer** and contribute to impactful AI security research.
+```python
+class Yogesh():
 
----
+    def __init__(self):
+        self.name = "Yogesh"
+        self.username = "Yogeshgnanasekar"
+        self.role = "AI & Cybersecurity Student"
+        self.interests = [
+            "Threat Hunting",
+            "Malware Analysis",
+            "AI Security",
+            "Bug Bounty",
+            "Digital Forensics"
+        ]
+
+    def goal(self):
+        return "Cybersecurity Research Engineer"
+
+
 
 # 🌐 Connect With Me
 
@@ -83,35 +98,10 @@ Machine Learning model for identifying phishing emails and malicious URLs.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshgnanasekar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshgnanasekar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshgnanasekar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshgnanasekar&theme=tokyo-night"/>
-
-</p>
 
 ---
 
