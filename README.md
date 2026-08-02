@@ -7,10 +7,12 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yogeshgnanasekar&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Yogeshgnanasekar?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Yogeshgnanasekar?style=for-the-badge&color=yellow"/>
+  <img width="700" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+ 
+  <img width="700" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+
 </p>
+
 
 ---
 
