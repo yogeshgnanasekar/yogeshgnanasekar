@@ -88,45 +88,6 @@ Machine Learning model for identifying phishing emails and malicious URLs.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogeshgnanasekar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshgnanasekar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshgnanasekar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogeshgnanasekar&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yogeshgnanasekar&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
@@ -150,7 +111,7 @@ Machine Learning model for identifying phishing emails and malicious URLs.
 - 🐞 Start Bug Bounty Hunting
 - ⭐ Contribute to Open Source
 - 📄 Publish Cybersecurity Research
-- 🎓 Pursue a Fully Funded PhD
+
 
 ---
 
