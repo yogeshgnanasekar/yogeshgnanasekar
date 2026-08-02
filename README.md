@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshgnanasekar/Yogeshgnanasekar/main/assets/banner.png" width="100%" alt="Yogesh Cybersecurity Banner">
-</p>
+
 
 <h1 align="center">Hi 👋 I'm Yogesh</h1>
 
