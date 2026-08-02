@@ -6,16 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Yogesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Research&descAlignY=58"/>
 </p>
 
-<p align="center">
-  <img width="100" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
- 
-  
-  <img width="100" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-
-</p>
-
-
 ---
 
 
