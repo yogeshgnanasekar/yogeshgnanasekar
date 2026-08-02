@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <img width="700" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+  <img width="100" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
  
-  <img width="700" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+  
+  <img width="100" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 </p>
 
