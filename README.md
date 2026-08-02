@@ -1,9 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yogesh;AI+%26+Cybersecurity+Enthusiast;Building+ScamShield+AI;Future+Cybersecurity+Researcher;Welcome+to+my+GitHub!" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogeshgnanasekar/Yogeshgnanasekar/main/assets/banner.png" width="100%" alt="Yogesh Cybersecurity Banner">
+</p>
+
+<h1 align="center">Hi 👋 I'm Yogesh</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Yogesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Research&descAlignY=58"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Cybersecurity+Enthusiast;Building+ScamShield+AI;Threat+Hunter;Future+Research+Engineer" />
 </p>
 
 ---
